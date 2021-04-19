@@ -1,0 +1,6 @@
+C:\Users\brady\source\repos\Dogyears\Dogyears\bin\Debug\Dogyears.exe.config
+C:\Users\brady\source\repos\Dogyears\Dogyears\bin\Debug\Dogyears.exe
+C:\Users\brady\source\repos\Dogyears\Dogyears\bin\Debug\Dogyears.pdb
+C:\Users\brady\source\repos\Dogyears\Dogyears\obj\Debug\Dogyears.csproj.CoreCompileInputs.cache
+C:\Users\brady\source\repos\Dogyears\Dogyears\obj\Debug\Dogyears.exe
+C:\Users\brady\source\repos\Dogyears\Dogyears\obj\Debug\Dogyears.pdb
